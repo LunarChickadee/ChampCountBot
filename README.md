@@ -1,0 +1,2 @@
+# ChampCountBot
+Counts Minted Champions
